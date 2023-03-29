@@ -1,6 +1,6 @@
-# lnbg Coin wallet
+# Lnbg Coin Wallet
 
-Your key to web3
+Your key to web3 Fast and Secure
 
 ## Quickstart:
 
